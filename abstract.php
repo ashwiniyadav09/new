@@ -1,5 +1,5 @@
 <?php
-abstract class cms1{
+abstract class cms2{
 	abstract public function drupal();
 	abstract public function wordpress();
 	abstract public function magento();
